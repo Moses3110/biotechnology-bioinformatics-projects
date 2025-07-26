@@ -66,12 +66,10 @@ I'm a biotechnology graduate who believes in the power of data science to unlock
 
 This repository is licensed under the [MIT License](LICENSE).
 
----
-
 ## 🤝 Let's Connect!
 
 If you’re a fellow researcher, data scientist, or enthusiast, feel free to connect, collaborate, or share ideas!
 
-- 🌐 [GitHub Profile](https://github.com/your-username)
-- 📧 [Email (optional)]
-- 📘 Add project-specific blog posts later!
+- 🔗 [GitHub Profile](https://github.com/your-username)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/contactmmoses)
+- 📧 [Email Me](mailto:mmoses3732@gmail.com)
