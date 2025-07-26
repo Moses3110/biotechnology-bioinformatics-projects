@@ -70,6 +70,6 @@ This repository is licensed under the [MIT License](LICENSE).
 
 If you’re a fellow researcher, data scientist, or enthusiast, feel free to connect, collaborate, or share ideas!
 
-- 🔗 [GitHub Profile](https://github.com/your-username)
+- 🔗 [GitHub Profile](https://github.com/Moses3110)
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/contactmmoses)
 - 📧 [Email Me](mailto:mmoses3732@gmail.com)
